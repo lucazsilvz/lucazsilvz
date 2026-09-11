@@ -1,13 +1,9 @@
-O<h4 data-importer="text" align="left">👋 Olá, eu sou o Lucas Anacleto!<br><br>💻 Estudante de Análise e Desenvolvimento de Sistemas<br><br>🛠️ Jovem Aprendiz de Suporte  TI <br><br>🚀 Em formação para me tornar Desenvolvedor de Sistemas<br><br>👨‍💻 Sobre mim<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou iniciando minha jornada profissional na área de Tecnologia da Informação.<br><br>No momento, trabalho com suporte, enquanto desenvolvo meus conhecimentos em programação.<br><br>Meu objetivo é evoluir constantemente, transformar o que aprendo em projetos e construir minha carreira como desenvolvedor.<br><br>📚 Atualmente estudando<br><br>* 🐍 Python<br>* ☕ Java<br>* 🟨 JavaScript<br>* 🌐 HTML<br>* 🎨 CSS<br>* 🔧 Git<br>* 🐙 GitHub<br>* 💻 Front-end<br><br>🎯 Objetivo<br><br>Atualmente estou construindo minha base em programação e desenvolvimento.<br><br>Meu objetivo é:<br><br>Suporte de TI → Desenvolvedor de Sistemas 🚀<br><br>Este perfil vai acompanhar minha evolução, desde os primeiros exercícios até meus futuros projetos.<br><br>📈 Minha evolução<br><br>📖 Aprender<br>→ 💻 Praticar<br>→ 🧪 Criar projetos<br>→ 🚀 Evoluir<br><br>📫 Contato<br><br>💼 LinkedIn: www.linkedin.com/in/lucas-anacleto<br><br>⭐ Este perfil está apenas começando. Acompanhe minha evolução!</h4>
+<h4 data-importer="text" align="left">👋 Olá, eu sou o Lucas Anacleto!<br><br>💻 Estudante de Análise e Desenvolvimento de Sistemas<br><br>🛠️ Jovem Aprendiz de Suporte  TI <br><br>🚀 Em formação para me tornar Desenvolvedor de Sistemas<br><br>👨‍💻 Sobre mim<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou iniciando minha jornada profissional na área de Tecnologia da Informação.<br><br>No momento, trabalho com suporte, enquanto desenvolvo meus conhecimentos em programação.<br><br>Meu objetivo é evoluir constantemente, transformar o que aprendo em projetos e construir minha carreira como desenvolvedor.<br><br>📚 Atualmente estudando<br><br>* 🐍 Python<br>* ☕ Java<br>* 🟨 JavaScript<br>* 🌐 HTML<br>* 🎨 CSS<br>* 🔧 Git<br>* 🐙 GitHub<br>* 💻 Front-end<br><br>🎯 Objetivo<br><br>Atualmente estou construindo minha base em programação e desenvolvimento.<br><br>Meu objetivo é:<br><br>Suporte de TI → Desenvolvedor de Sistemas 🚀<br><br>Este perfil vai acompanhar minha evolução, desde os primeiros exercícios até meus futuros projetos.<br><br>📈 Minha evolução<br><br>📖 Aprender<br>→ 💻 Praticar<br>→ 🧪 Criar projetos<br>→ 🚀 Evoluir<br><br>📫 Contato<br><br>💼 LinkedIn: www.linkedin.com/in/lucas-anacleto<br><br>⭐ Este perfil está apenas começando. Acompanhe minha evolução!</h4>
 
 ###
 
 <div data-importer="stats" align="center">
 </div>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://giphy.com/gifs/naruto-manga-XiF27KmWRC6v6"  />
 
 ###
 
@@ -23,9 +19,10 @@ O<h4 data-importer="text" align="left">👋 Olá, eu sou o Lucas Anacleto!<br><b
 
 ###
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/lucazsilvz/lucazsilvz/snake-output/snake.svg" alt="Snake animation" />
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 ###
 
