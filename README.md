@@ -1,23 +1,3 @@
-<h4 data-importer="text" align="left"> Olá, eu sou o Lucas Anacleto!<br><br>💻 Estudante de Análise e Desenvolvimento de Sistemas<br><br> Jovem Aprendiz de Suporte  TI <br><br>🚀 Em formação para me tornar Desenvolvedor de Sistemas<br><br> Sobre mim<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou iniciando minha jornada profissional na área de Tecnologia da Informação.<br><br>No momento, trabalho com suporte, enquanto desenvolvo meus conhecimentos em programação.<br><br>Meu objetivo é evoluir constantemente, transformar o que aprendo em projetos e construir minha carreira como desenvolvedor.<br><br> Atualmente estudando<br>*  Python<br>*  Java<br>*  JavaScript<br>*  HTML<br>*  CSS<br>*  Git<br>*  GitHub<br>*  Front-end<br><br>
-
-###
-
-<div data-importer="stats" align="center">
-</div>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
 # 👋 Olá, eu sou o Lucas Anacleto!
 
 ### 💻 Estudante de Análise e Desenvolvimento de Sistemas | Suporte de TI | Desenvolvedor em formação
