@@ -14,7 +14,7 @@ Meu objetivo é continuar evoluindo, desenvolver novos projetos e futuramente at
 
 Desenvolvi meu próprio portfólio utilizando **HTML, CSS e JavaScript**, onde apresento minha trajetória, tecnologias e projetos.
 
-### 🌐 [Acessar meu Portfólio](https://lucazsilvz.github.io/Portf-lio/)
+### 🌐 [Acessar meu Portfólio](https://lucazsilvz.github.io/Portfolio/)
 
 ---
 
