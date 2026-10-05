@@ -82,7 +82,7 @@ Continuar desenvolvendo minhas habilidades técnicas, criar novos projetos e adq
 </a>
 
 <a href="https://lucazsilvz.github.io/Portf-lio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-Acessar-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-Acessar-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 ---
